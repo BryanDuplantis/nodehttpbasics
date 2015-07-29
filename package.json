@@ -1,0 +1,27 @@
+{
+  "name": "nodehttpbasics",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test-unit": "mocha test/unit --recursive",
+    "test-integration": "mocha test/integration --recursive"
+  },
+  "author": "Bryan Duplantis <duplantis@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  },
+  "dependencies": {
+    "chai": "^3.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryanDuplantis/nodehttpbasics.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BryanDuplantis/nodehttpbasics/issues"
+  },
+  "homepage": "https://github.com/BryanDuplantis/nodehttpbasics#readme",
+  "description": ""
+}
