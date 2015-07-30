@@ -5,7 +5,8 @@
   "scripts": {
     "test-unit": "mocha test/unit --recursive",
     "test-integration": "mocha test/integration --recursive",
-    "test": "mocha"
+    "test": "mocha",
+    "start": "node app.js"
   },
   "author": "Bryan Duplantis <duplantis@gmail.com>",
   "license": "MIT",
